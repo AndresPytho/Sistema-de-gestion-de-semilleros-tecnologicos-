@@ -552,7 +552,11 @@
             this.txtVerReportes.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txtVerReportes.ForeColor = System.Drawing.Color.White;
             this.txtVerReportes.Location = new System.Drawing.Point(15, 222);
+<<<<<<< HEAD
             this.txtVerReportes.Margin = new System.Windows.Forms.Padding(2);
+=======
+            this.txtVerReportes.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+>>>>>>> 6459cbeed1fae28f9186c50172cb199d470cf9fa
             this.txtVerReportes.Name = "txtVerReportes";
             this.txtVerReportes.Size = new System.Drawing.Size(248, 37);
             this.txtVerReportes.TabIndex = 13;
