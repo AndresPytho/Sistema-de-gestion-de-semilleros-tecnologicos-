@@ -1,49 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|c:\\users\\sena\\downloads\\sistema de gestion de semilleros (2)\\semilero-de-investigacion\\sistema de gestion de semilleros\\sistema de gestion de semilleros\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\sistema de gestion de semilleros\\intrfazlider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\intrfazlider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\sistema de gestion de semilleros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\sistema de gestion de semilleros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\sistema de gestion de semilleros\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\sistema de gestion de semilleros\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\sistema de gestion de semilleros\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\sistema de gestion de semilleros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Sistema de gestion de Semilleros||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\sistema de gestion de semilleros\\interfaz_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\sistema de gestion de semilleros\\interfaz_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\interfaz_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\sistema de gestion de semilleros\\interfaz_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\interfaz_administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|c:\\users\\user\\desktop\\nueva carpeta\\sistema-de-gestion-de-semilleros-tecnologicos-\\sistema de gestion de semilleros\\gestiondeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\gestiondeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\sistema de gestion de semilleros\\intrfazlider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\intrfazlider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\sistema de gestion de semilleros\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\sistema de gestion de semilleros\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\sistema de gestion de semilleros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\sistema de gestion de semilleros\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\sistema de gestion de semilleros\\gestiondeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\gestiondeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\sistema de gestion de semilleros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\sistema de gestion de semilleros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6D202E-744C-4E89-B5B9-B0E0C620B88C}|Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj|solutionrelative:sistema de gestion de semilleros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,15 +50,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 212,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Conexion.cs",
               "RelativeDocumentMoniker": "Sistema de gestion de Semilleros\\Conexion.cs",
-              "ToolTip": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Conexion.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Conexion.cs",
               "RelativeToolTip": "Sistema de gestion de Semilleros\\Conexion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,71 +66,81 @@
               "IsPinned": true
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Usuario.cs",
-              "RelativeDocumentMoniker": "Sistema de gestion de Semilleros\\Usuario.cs",
-              "ToolTip": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Usuario.cs",
-              "RelativeToolTip": "Sistema de gestion de Semilleros\\Usuario.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA6wCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T21:22:20.784Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Sistema de gestion de Semilleros",
-              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj",
-              "RelativeDocumentMoniker": "Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj",
-              "ToolTip": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj",
-              "RelativeToolTip": "Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-17T21:17:06.591Z"
+              "Title": "Gestiondeventos.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Gestiondeventos.cs",
+              "RelativeDocumentMoniker": "Sistema de gestion de Semilleros\\Gestiondeventos.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Gestiondeventos.cs",
+              "RelativeToolTip": "Sistema de gestion de Semilleros\\Gestiondeventos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T18:53:24.028Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Interfaz_Administrador.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Interfaz_Administrador.cs",
-              "RelativeDocumentMoniker": "Sistema de gestion de Semilleros\\Interfaz_Administrador.cs",
-              "ToolTip": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Interfaz_Administrador.cs",
-              "RelativeToolTip": "Sistema de gestion de Semilleros\\Interfaz_Administrador.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAowKoAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Gestiondeventos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Gestiondeventos.cs",
+              "RelativeDocumentMoniker": "Sistema de gestion de Semilleros\\Gestiondeventos.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Gestiondeventos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema de gestion de Semilleros\\Gestiondeventos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T21:30:49.092Z"
+              "WhenOpened": "2026-03-19T18:37:33.248Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Interfaz_Administrador.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Interfaz_Administrador.cs",
-              "RelativeDocumentMoniker": "Sistema de gestion de Semilleros\\Interfaz_Administrador.cs",
-              "ToolTip": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Interfaz_Administrador.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Sistema de gestion de Semilleros\\Interfaz_Administrador.cs [Dise\u00F1o]",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Usuario.cs",
+              "RelativeDocumentMoniker": "Sistema de gestion de Semilleros\\Usuario.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Usuario.cs",
+              "RelativeToolTip": "Sistema de gestion de Semilleros\\Usuario.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T00:11:41.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Sistema de gestion de Semilleros\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Form1.Designer.cs",
-              "RelativeToolTip": "Sistema de gestion de Semilleros\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T21:13:17.931Z"
+              "WhenOpened": "2026-03-17T21:22:20.784Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Interfaz_Administrador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Interfaz_Administrador.cs",
+              "RelativeDocumentMoniker": "Sistema de gestion de Semilleros\\Interfaz_Administrador.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Interfaz_Administrador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema de gestion de Semilleros\\Interfaz_Administrador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T00:11:41.233Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Form1.cs",
               "RelativeDocumentMoniker": "Sistema de gestion de Semilleros\\Form1.cs",
-              "ToolTip": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Form1.cs",
               "RelativeToolTip": "Sistema de gestion de Semilleros\\Form1.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAArwHQAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -141,22 +148,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Form1.cs",
-              "RelativeDocumentMoniker": "Sistema de gestion de Semilleros\\Form1.cs",
-              "ToolTip": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Sistema de gestion de Semilleros\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T20:33:15.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Program.cs",
               "RelativeDocumentMoniker": "Sistema de gestion de Semilleros\\Program.cs",
-              "ToolTip": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Program.cs",
               "RelativeToolTip": "Sistema de gestion de Semilleros\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAwBYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,9 +162,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Consultas.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Consultas.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Consultas.cs",
               "RelativeDocumentMoniker": "Sistema de gestion de Semilleros\\Consultas.cs",
-              "ToolTip": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Consultas.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Consultas.cs",
               "RelativeToolTip": "Sistema de gestion de Semilleros\\Consultas.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAkwEgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -176,14 +172,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "IntrfazLider.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\IntrfazLider.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\IntrfazLider.cs",
               "RelativeDocumentMoniker": "Sistema de gestion de Semilleros\\IntrfazLider.cs",
-              "ToolTip": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\IntrfazLider.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\IntrfazLider.cs [Dise\u00F1o]",
               "RelativeToolTip": "Sistema de gestion de Semilleros\\IntrfazLider.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T00:13:19.791Z"
+              "WhenOpened": "2026-03-01T00:13:19.791Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Form1.cs",
+              "RelativeDocumentMoniker": "Sistema de gestion de Semilleros\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema de gestion de Semilleros\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T20:33:15.531Z"
             }
           ]
         }

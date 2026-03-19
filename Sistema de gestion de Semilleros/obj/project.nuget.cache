@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "M7olPbcmTLU=",
+  "dgSpecHash": "X3mtUhRPpAU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SENA\\Downloads\\Sistema de gestion de Semilleros (2)\\Semilero-de-investigacion\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\SENA\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512"
+    "C:\\Users\\USER\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512"
   ],
   "logs": []
 }

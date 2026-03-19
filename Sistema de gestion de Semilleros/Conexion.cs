@@ -20,7 +20,7 @@ namespace Sistema_de_gestion_de_Semilleros
 
             try
             { 
-            con = new SqlConnection("Data Source=CNGAPRCIPFSD070;Initial Catalog=Sistemas de gestion de Semilleros Tecnologicos;Integrated Security=True");
+            con = new SqlConnection("Data Source=DESKTOP-LSQ95PM;Initial Catalog=Sistemas de gestion de Semilleros Tecnologicos;Integrated Security=True");
                 con.Open();
             }
                 

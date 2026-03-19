@@ -45,3 +45,18 @@ C:\Users\SENA\Downloads\Sistema de gestion de Semilleros (2)\Semilero-de-investi
 C:\Users\SENA\Downloads\Sistema de gestion de Semilleros (2)\Semilero-de-investigacion\Sistema de gestion de Semilleros\Sistema de gestion de Semilleros\obj\Debug\Sistema .B59E843E.Up2Date
 C:\Users\SENA\Downloads\Sistema de gestion de Semilleros (2)\Semilero-de-investigacion\Sistema de gestion de Semilleros\Sistema de gestion de Semilleros\obj\Debug\Sistema de gestion de Semilleros.exe
 C:\Users\SENA\Downloads\Sistema de gestion de Semilleros (2)\Semilero-de-investigacion\Sistema de gestion de Semilleros\Sistema de gestion de Semilleros\obj\Debug\Sistema de gestion de Semilleros.pdb
+C:\Users\USER\Desktop\Nueva carpeta\Sistema-de-gestion-de-semilleros-tecnologicos-\Sistema de gestion de Semilleros\bin\Debug\Sistema de gestion de Semilleros.exe.config
+C:\Users\USER\Desktop\Nueva carpeta\Sistema-de-gestion-de-semilleros-tecnologicos-\Sistema de gestion de Semilleros\bin\Debug\Sistema de gestion de Semilleros.exe
+C:\Users\USER\Desktop\Nueva carpeta\Sistema-de-gestion-de-semilleros-tecnologicos-\Sistema de gestion de Semilleros\bin\Debug\Sistema de gestion de Semilleros.pdb
+C:\Users\USER\Desktop\Nueva carpeta\Sistema-de-gestion-de-semilleros-tecnologicos-\Sistema de gestion de Semilleros\bin\Debug\Guna.UI2.dll
+C:\Users\USER\Desktop\Nueva carpeta\Sistema-de-gestion-de-semilleros-tecnologicos-\Sistema de gestion de Semilleros\obj\Debug\Sistema de gestion de Semilleros.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Nueva carpeta\Sistema-de-gestion-de-semilleros-tecnologicos-\Sistema de gestion de Semilleros\obj\Debug\Sistema_de_gestion_de_Semilleros.Form1.resources
+C:\Users\USER\Desktop\Nueva carpeta\Sistema-de-gestion-de-semilleros-tecnologicos-\Sistema de gestion de Semilleros\obj\Debug\Sistema_de_gestion_de_Semilleros.Gestiondeventos.resources
+C:\Users\USER\Desktop\Nueva carpeta\Sistema-de-gestion-de-semilleros-tecnologicos-\Sistema de gestion de Semilleros\obj\Debug\Sistema_de_gestion_de_Semilleros.Interfaz_Administrador.resources
+C:\Users\USER\Desktop\Nueva carpeta\Sistema-de-gestion-de-semilleros-tecnologicos-\Sistema de gestion de Semilleros\obj\Debug\Sistema_de_gestion_de_Semilleros.IntrfazLider.resources
+C:\Users\USER\Desktop\Nueva carpeta\Sistema-de-gestion-de-semilleros-tecnologicos-\Sistema de gestion de Semilleros\obj\Debug\Sistema_de_gestion_de_Semilleros.Properties.Resources.resources
+C:\Users\USER\Desktop\Nueva carpeta\Sistema-de-gestion-de-semilleros-tecnologicos-\Sistema de gestion de Semilleros\obj\Debug\Sistema de gestion de Semilleros.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Nueva carpeta\Sistema-de-gestion-de-semilleros-tecnologicos-\Sistema de gestion de Semilleros\obj\Debug\Sistema de gestion de Semilleros.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Nueva carpeta\Sistema-de-gestion-de-semilleros-tecnologicos-\Sistema de gestion de Semilleros\obj\Debug\Sistema .B59E843E.Up2Date
+C:\Users\USER\Desktop\Nueva carpeta\Sistema-de-gestion-de-semilleros-tecnologicos-\Sistema de gestion de Semilleros\obj\Debug\Sistema de gestion de Semilleros.exe
+C:\Users\USER\Desktop\Nueva carpeta\Sistema-de-gestion-de-semilleros-tecnologicos-\Sistema de gestion de Semilleros\obj\Debug\Sistema de gestion de Semilleros.pdb
