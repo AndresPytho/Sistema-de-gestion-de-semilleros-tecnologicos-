@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -114,6 +114,27 @@
     <PackageReference Include="Guna.UI2.WinForms">
       <Version>2.0.4.7</Version>
     </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %2811%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %2812%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %2813%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %2814%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %283%291.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
