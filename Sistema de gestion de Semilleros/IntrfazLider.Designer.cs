@@ -39,11 +39,12 @@
             this.guna2BorderlessForm1 = new Guna.UI2.WinForms.Guna2BorderlessForm(this.components);
             this.guna2BorderlessForm2 = new Guna.UI2.WinForms.Guna2BorderlessForm(this.components);
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
+            this.txtmisemillero = new Guna.UI2.WinForms.Guna2Button();
+            this.txtreportes = new Guna.UI2.WinForms.Guna2Button();
+            this.txteventos = new Guna.UI2.WinForms.Guna2Button();
+            this.txtreuniones = new Guna.UI2.WinForms.Guna2Button();
             this.txtproyectos = new Guna.UI2.WinForms.Guna2Button();
             this.txtintegrantes = new Guna.UI2.WinForms.Guna2Button();
-            this.txtreuniones = new Guna.UI2.WinForms.Guna2Button();
-            this.txteventos = new Guna.UI2.WinForms.Guna2Button();
-            this.txtreportes = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Panel3 = new Guna.UI2.WinForms.Guna2Panel();
             this.lblS0 = new System.Windows.Forms.Label();
             this.lblintegrantes = new System.Windows.Forms.Label();
@@ -77,7 +78,6 @@
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.txtmisemillero = new Guna.UI2.WinForms.Guna2Button();
             this.panelLider.SuspendLayout();
             this.guna2Panel1.SuspendLayout();
             this.guna2Panel3.SuspendLayout();
@@ -109,7 +109,7 @@
             this.panelLider.Location = new System.Drawing.Point(172, 2);
             this.panelLider.Margin = new System.Windows.Forms.Padding(2);
             this.panelLider.Name = "panelLider";
-            this.panelLider.Size = new System.Drawing.Size(727, 63);
+            this.panelLider.Size = new System.Drawing.Size(768, 63);
             this.panelLider.TabIndex = 3;
             // 
             // txtfiltrolider
@@ -167,8 +167,76 @@
             this.guna2Panel1.Location = new System.Drawing.Point(-1, -7);
             this.guna2Panel1.Margin = new System.Windows.Forms.Padding(2);
             this.guna2Panel1.Name = "guna2Panel1";
-            this.guna2Panel1.Size = new System.Drawing.Size(173, 566);
+            this.guna2Panel1.Size = new System.Drawing.Size(173, 571);
             this.guna2Panel1.TabIndex = 4;
+            // 
+            // txtmisemillero
+            // 
+            this.txtmisemillero.BackColor = System.Drawing.Color.Navy;
+            this.txtmisemillero.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.txtmisemillero.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.txtmisemillero.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.txtmisemillero.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.txtmisemillero.FillColor = System.Drawing.Color.Transparent;
+            this.txtmisemillero.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.txtmisemillero.ForeColor = System.Drawing.Color.White;
+            this.txtmisemillero.Location = new System.Drawing.Point(0, 9);
+            this.txtmisemillero.Margin = new System.Windows.Forms.Padding(2);
+            this.txtmisemillero.Name = "txtmisemillero";
+            this.txtmisemillero.Size = new System.Drawing.Size(171, 37);
+            this.txtmisemillero.TabIndex = 9;
+            this.txtmisemillero.Text = "Mi Semillero";
+            // 
+            // txtreportes
+            // 
+            this.txtreportes.BackColor = System.Drawing.Color.Navy;
+            this.txtreportes.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.txtreportes.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.txtreportes.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.txtreportes.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.txtreportes.FillColor = System.Drawing.Color.Transparent;
+            this.txtreportes.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.txtreportes.ForeColor = System.Drawing.Color.White;
+            this.txtreportes.Location = new System.Drawing.Point(0, 213);
+            this.txtreportes.Margin = new System.Windows.Forms.Padding(2);
+            this.txtreportes.Name = "txtreportes";
+            this.txtreportes.Size = new System.Drawing.Size(171, 37);
+            this.txtreportes.TabIndex = 8;
+            this.txtreportes.Text = "Reportes";
+            // 
+            // txteventos
+            // 
+            this.txteventos.BackColor = System.Drawing.Color.Navy;
+            this.txteventos.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.txteventos.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.txteventos.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.txteventos.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.txteventos.FillColor = System.Drawing.Color.Transparent;
+            this.txteventos.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.txteventos.ForeColor = System.Drawing.Color.White;
+            this.txteventos.Location = new System.Drawing.Point(2, 172);
+            this.txteventos.Margin = new System.Windows.Forms.Padding(2);
+            this.txteventos.Name = "txteventos";
+            this.txteventos.Size = new System.Drawing.Size(171, 37);
+            this.txteventos.TabIndex = 7;
+            this.txteventos.Text = "Eventos";
+            // 
+            // txtreuniones
+            // 
+            this.txtreuniones.BackColor = System.Drawing.Color.Navy;
+            this.txtreuniones.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.txtreuniones.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.txtreuniones.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.txtreuniones.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.txtreuniones.FillColor = System.Drawing.Color.Transparent;
+            this.txtreuniones.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.txtreuniones.ForeColor = System.Drawing.Color.White;
+            this.txtreuniones.Location = new System.Drawing.Point(0, 131);
+            this.txtreuniones.Margin = new System.Windows.Forms.Padding(2);
+            this.txtreuniones.Name = "txtreuniones";
+            this.txtreuniones.Size = new System.Drawing.Size(171, 37);
+            this.txtreuniones.TabIndex = 6;
+            this.txtreuniones.Text = "Reuniones";
             // 
             // txtproyectos
             // 
@@ -203,57 +271,6 @@
             this.txtintegrantes.Size = new System.Drawing.Size(171, 37);
             this.txtintegrantes.TabIndex = 4;
             this.txtintegrantes.Text = "Integrantes";
-            // 
-            // txtreuniones
-            // 
-            this.txtreuniones.BackColor = System.Drawing.Color.Navy;
-            this.txtreuniones.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.txtreuniones.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.txtreuniones.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.txtreuniones.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.txtreuniones.FillColor = System.Drawing.Color.Transparent;
-            this.txtreuniones.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.txtreuniones.ForeColor = System.Drawing.Color.White;
-            this.txtreuniones.Location = new System.Drawing.Point(0, 131);
-            this.txtreuniones.Margin = new System.Windows.Forms.Padding(2);
-            this.txtreuniones.Name = "txtreuniones";
-            this.txtreuniones.Size = new System.Drawing.Size(171, 37);
-            this.txtreuniones.TabIndex = 6;
-            this.txtreuniones.Text = "Reuniones";
-            // 
-            // txteventos
-            // 
-            this.txteventos.BackColor = System.Drawing.Color.Navy;
-            this.txteventos.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.txteventos.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.txteventos.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.txteventos.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.txteventos.FillColor = System.Drawing.Color.Transparent;
-            this.txteventos.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.txteventos.ForeColor = System.Drawing.Color.White;
-            this.txteventos.Location = new System.Drawing.Point(2, 172);
-            this.txteventos.Margin = new System.Windows.Forms.Padding(2);
-            this.txteventos.Name = "txteventos";
-            this.txteventos.Size = new System.Drawing.Size(171, 37);
-            this.txteventos.TabIndex = 7;
-            this.txteventos.Text = "Eventos";
-            // 
-            // txtreportes
-            // 
-            this.txtreportes.BackColor = System.Drawing.Color.Navy;
-            this.txtreportes.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.txtreportes.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.txtreportes.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.txtreportes.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.txtreportes.FillColor = System.Drawing.Color.Transparent;
-            this.txtreportes.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.txtreportes.ForeColor = System.Drawing.Color.White;
-            this.txtreportes.Location = new System.Drawing.Point(0, 213);
-            this.txtreportes.Margin = new System.Windows.Forms.Padding(2);
-            this.txtreportes.Name = "txtreportes";
-            this.txtreportes.Size = new System.Drawing.Size(171, 37);
-            this.txtreportes.TabIndex = 8;
-            this.txtreportes.Text = "Reportes";
             // 
             // guna2Panel3
             // 
@@ -440,7 +457,7 @@
             this.gropboxAccionesRapidas.Controls.Add(this.txtregistrar);
             this.gropboxAccionesRapidas.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.gropboxAccionesRapidas.ForeColor = System.Drawing.Color.Black;
-            this.gropboxAccionesRapidas.Location = new System.Drawing.Point(597, 99);
+            this.gropboxAccionesRapidas.Location = new System.Drawing.Point(614, 92);
             this.gropboxAccionesRapidas.Margin = new System.Windows.Forms.Padding(2);
             this.gropboxAccionesRapidas.Name = "gropboxAccionesRapidas";
             this.gropboxAccionesRapidas.Size = new System.Drawing.Size(302, 259);
@@ -551,7 +568,7 @@
             dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.dataGrideTablaSemillero.DefaultCellStyle = dataGridViewCellStyle3;
             this.dataGrideTablaSemillero.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
-            this.dataGrideTablaSemillero.Location = new System.Drawing.Point(172, 375);
+            this.dataGrideTablaSemillero.Location = new System.Drawing.Point(192, 382);
             this.dataGrideTablaSemillero.Margin = new System.Windows.Forms.Padding(2);
             this.dataGrideTablaSemillero.Name = "dataGrideTablaSemillero";
             this.dataGrideTablaSemillero.RowHeadersVisible = false;
@@ -655,28 +672,11 @@
             this.pictureBox1.TabIndex = 14;
             this.pictureBox1.TabStop = false;
             // 
-            // txtmisemillero
-            // 
-            this.txtmisemillero.BackColor = System.Drawing.Color.Navy;
-            this.txtmisemillero.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.txtmisemillero.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.txtmisemillero.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.txtmisemillero.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.txtmisemillero.FillColor = System.Drawing.Color.Transparent;
-            this.txtmisemillero.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.txtmisemillero.ForeColor = System.Drawing.Color.White;
-            this.txtmisemillero.Location = new System.Drawing.Point(0, 9);
-            this.txtmisemillero.Margin = new System.Windows.Forms.Padding(2);
-            this.txtmisemillero.Name = "txtmisemillero";
-            this.txtmisemillero.Size = new System.Drawing.Size(171, 37);
-            this.txtmisemillero.TabIndex = 9;
-            this.txtmisemillero.Text = "Mi Semillero";
-            // 
             // IntrfazLider
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(899, 717);
+            this.ClientSize = new System.Drawing.Size(939, 563);
             this.ControlBox = false;
             this.Controls.Add(this.dataGrideTablaSemillero);
             this.Controls.Add(this.gropboxAccionesRapidas);
@@ -688,7 +688,7 @@
             this.Controls.Add(this.panelLider);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "IntrfazLider";
             this.Text = "IntrfazLider";
             this.Load += new System.EventHandler(this.IntrfazLider_Load);

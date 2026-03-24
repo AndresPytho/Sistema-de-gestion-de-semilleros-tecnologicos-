@@ -174,5 +174,10 @@ namespace Sistema_de_gestion_de_Semilleros
         {
 
         }
+
+        private void guna2Panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

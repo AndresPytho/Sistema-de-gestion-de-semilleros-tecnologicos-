@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9cZzM71lD2LavrblvmfDICtsPdugBISxua2ydBUbdvlWPioZ1fwJnz8x8RW2eW5WP8nC4xVUoejd0gtYiiejng==",
+  "dgSpecHash": "X3mtUhRPpAU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\sandres python\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512"
   ],

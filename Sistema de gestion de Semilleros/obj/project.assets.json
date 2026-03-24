@@ -33,6 +33,22 @@
         }
       }
     },
+    ".NETFramework,Version=v4.7.2/win-arm64": {
+      "Guna.UI2.WinForms/2.0.4.7": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Design",
+          "System.Management",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net472/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net472/Guna.UI2.dll": {}
+        }
+      }
+    },
     ".NETFramework,Version=v4.7.2/win-x64": {
       "Guna.UI2.WinForms/2.0.4.7": {
         "type": "package",
@@ -102,13 +118,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\sandres python\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj",
       "projectName": "Sistema de gestion de Semilleros",
-      "projectPath": "C:\\Users\\USER\\Desktop\\sandres python\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\Sistema de gestion de Semilleros.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\sandres python\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Nueva carpeta\\Sistema-de-gestion-de-semilleros-tecnologicos-\\Sistema de gestion de Semilleros\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
@@ -128,6 +145,11 @@
         "net472": {
           "projectReferences": {}
         }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -142,6 +164,9 @@
     },
     "runtimes": {
       "win": {
+        "#import": []
+      },
+      "win-arm64": {
         "#import": []
       },
       "win-x64": {

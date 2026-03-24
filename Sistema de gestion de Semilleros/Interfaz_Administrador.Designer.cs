@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.lblPanelAdministacion = new System.Windows.Forms.Label();
             this.guna2AnimateWindow1 = new Guna.UI2.WinForms.Guna2AnimateWindow(this.components);
             this.guna2BorderlessForm1 = new Guna.UI2.WinForms.Guna2BorderlessForm(this.components);
@@ -68,8 +68,8 @@
             this.txtCrearSemillero = new Guna.UI2.WinForms.Guna2Button();
             this.txtRegistrarEvento = new Guna.UI2.WinForms.Guna2Button();
             this.gropboxAccionesRapidas = new Guna.UI2.WinForms.Guna2GroupBox();
-            this.guna2DragControl2 = new Guna.UI2.WinForms.Guna2DragControl(this.components);
             this.txtVerReportes = new Guna.UI2.WinForms.Guna2Button();
+            this.guna2DragControl2 = new Guna.UI2.WinForms.Guna2DragControl(this.components);
             this.guna2Panel1.SuspendLayout();
             this.panelAdministracion.SuspendLayout();
             this.guna2Panel3.SuspendLayout();
@@ -105,10 +105,11 @@
             this.guna2Panel1.Controls.Add(this.txtUsuario);
             this.guna2Panel1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.guna2Panel1.Location = new System.Drawing.Point(0, 0);
-            this.guna2Panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2Panel1.Margin = new System.Windows.Forms.Padding(2);
             this.guna2Panel1.Name = "guna2Panel1";
             this.guna2Panel1.Size = new System.Drawing.Size(160, 557);
             this.guna2Panel1.TabIndex = 1;
+            this.guna2Panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel1_Paint);
             // 
             // txtReportes
             // 
@@ -121,7 +122,7 @@
             this.txtReportes.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txtReportes.ForeColor = System.Drawing.Color.White;
             this.txtReportes.Location = new System.Drawing.Point(2, 240);
-            this.txtReportes.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtReportes.Margin = new System.Windows.Forms.Padding(2);
             this.txtReportes.Name = "txtReportes";
             this.txtReportes.Size = new System.Drawing.Size(155, 37);
             this.txtReportes.TabIndex = 5;
@@ -138,7 +139,7 @@
             this.txtEventos.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txtEventos.ForeColor = System.Drawing.Color.White;
             this.txtEventos.Location = new System.Drawing.Point(2, 177);
-            this.txtEventos.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtEventos.Margin = new System.Windows.Forms.Padding(2);
             this.txtEventos.Name = "txtEventos";
             this.txtEventos.Size = new System.Drawing.Size(155, 37);
             this.txtEventos.TabIndex = 4;
@@ -155,7 +156,7 @@
             this.txtSemillero.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txtSemillero.ForeColor = System.Drawing.Color.White;
             this.txtSemillero.Location = new System.Drawing.Point(2, 114);
-            this.txtSemillero.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtSemillero.Margin = new System.Windows.Forms.Padding(2);
             this.txtSemillero.Name = "txtSemillero";
             this.txtSemillero.Size = new System.Drawing.Size(155, 37);
             this.txtSemillero.TabIndex = 3;
@@ -172,7 +173,7 @@
             this.txtUsuario.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txtUsuario.ForeColor = System.Drawing.Color.White;
             this.txtUsuario.Location = new System.Drawing.Point(2, 50);
-            this.txtUsuario.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtUsuario.Margin = new System.Windows.Forms.Padding(2);
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(155, 37);
             this.txtUsuario.TabIndex = 2;
@@ -183,7 +184,7 @@
             this.panelAdministracion.Controls.Add(this.txtFiltrar);
             this.panelAdministracion.Controls.Add(this.lblPanelAdministacion);
             this.panelAdministracion.Location = new System.Drawing.Point(160, 0);
-            this.panelAdministracion.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panelAdministracion.Margin = new System.Windows.Forms.Padding(2);
             this.panelAdministracion.Name = "panelAdministracion";
             this.panelAdministracion.Size = new System.Drawing.Size(762, 63);
             this.panelAdministracion.TabIndex = 2;
@@ -214,7 +215,7 @@
             this.guna2Panel3.Controls.Add(this.lblSemillero);
             this.guna2Panel3.Controls.Add(this.guna2Panel7);
             this.guna2Panel3.Location = new System.Drawing.Point(194, 99);
-            this.guna2Panel3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2Panel3.Margin = new System.Windows.Forms.Padding(2);
             this.guna2Panel3.Name = "guna2Panel3";
             this.guna2Panel3.Size = new System.Drawing.Size(171, 81);
             this.guna2Panel3.TabIndex = 3;
@@ -246,7 +247,7 @@
             // 
             this.guna2Panel7.FillColor = System.Drawing.Color.Green;
             this.guna2Panel7.Location = new System.Drawing.Point(0, 0);
-            this.guna2Panel7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2Panel7.Margin = new System.Windows.Forms.Padding(2);
             this.guna2Panel7.Name = "guna2Panel7";
             this.guna2Panel7.Size = new System.Drawing.Size(8, 81);
             this.guna2Panel7.TabIndex = 6;
@@ -257,7 +258,7 @@
             this.guna2Panel4.Controls.Add(this.lblUsuario);
             this.guna2Panel4.Controls.Add(this.guna2Panel8);
             this.guna2Panel4.Location = new System.Drawing.Point(401, 99);
-            this.guna2Panel4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2Panel4.Margin = new System.Windows.Forms.Padding(2);
             this.guna2Panel4.Name = "guna2Panel4";
             this.guna2Panel4.Size = new System.Drawing.Size(171, 81);
             this.guna2Panel4.TabIndex = 4;
@@ -288,7 +289,7 @@
             // 
             this.guna2Panel8.FillColor = System.Drawing.SystemColors.HotTrack;
             this.guna2Panel8.Location = new System.Drawing.Point(0, 0);
-            this.guna2Panel8.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2Panel8.Margin = new System.Windows.Forms.Padding(2);
             this.guna2Panel8.Name = "guna2Panel8";
             this.guna2Panel8.Size = new System.Drawing.Size(8, 81);
             this.guna2Panel8.TabIndex = 7;
@@ -298,7 +299,7 @@
             this.guna2Panel5.Controls.Add(this.lblE0);
             this.guna2Panel5.Controls.Add(this.lblEventos);
             this.guna2Panel5.Location = new System.Drawing.Point(194, 220);
-            this.guna2Panel5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2Panel5.Margin = new System.Windows.Forms.Padding(2);
             this.guna2Panel5.Name = "guna2Panel5";
             this.guna2Panel5.Size = new System.Drawing.Size(171, 81);
             this.guna2Panel5.TabIndex = 5;
@@ -331,7 +332,7 @@
             this.guna2Panel6.Controls.Add(this.label5);
             this.guna2Panel6.Controls.Add(this.guna2Panel9);
             this.guna2Panel6.Location = new System.Drawing.Point(401, 220);
-            this.guna2Panel6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2Panel6.Margin = new System.Windows.Forms.Padding(2);
             this.guna2Panel6.Name = "guna2Panel6";
             this.guna2Panel6.Size = new System.Drawing.Size(171, 81);
             this.guna2Panel6.TabIndex = 5;
@@ -363,7 +364,7 @@
             // 
             this.guna2Panel9.FillColor = System.Drawing.Color.Crimson;
             this.guna2Panel9.Location = new System.Drawing.Point(0, 0);
-            this.guna2Panel9.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2Panel9.Margin = new System.Windows.Forms.Padding(2);
             this.guna2Panel9.Name = "guna2Panel9";
             this.guna2Panel9.Size = new System.Drawing.Size(8, 81);
             this.guna2Panel9.TabIndex = 7;
@@ -372,7 +373,7 @@
             // 
             this.guna2Panel10.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.guna2Panel10.Location = new System.Drawing.Point(194, 220);
-            this.guna2Panel10.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2Panel10.Margin = new System.Windows.Forms.Padding(2);
             this.guna2Panel10.Name = "guna2Panel10";
             this.guna2Panel10.Size = new System.Drawing.Size(8, 81);
             this.guna2Panel10.TabIndex = 7;
@@ -390,16 +391,16 @@
             // 
             // dataGrideTablaSemillero
             // 
-            dataGridViewCellStyle4.BackColor = System.Drawing.Color.White;
-            this.dataGrideTablaSemillero.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle4;
-            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle5.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dataGrideTablaSemillero.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle5;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
+            this.dataGrideTablaSemillero.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGrideTablaSemillero.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
             this.dataGrideTablaSemillero.ColumnHeadersHeight = 18;
             this.dataGrideTablaSemillero.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
             this.dataGrideTablaSemillero.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -407,17 +408,17 @@
             this.Column1,
             this.Column2,
             this.Column3});
-            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle6.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle6.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
-            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
-            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dataGrideTablaSemillero.DefaultCellStyle = dataGridViewCellStyle6;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGrideTablaSemillero.DefaultCellStyle = dataGridViewCellStyle3;
             this.dataGrideTablaSemillero.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
             this.dataGrideTablaSemillero.Location = new System.Drawing.Point(193, 381);
-            this.dataGrideTablaSemillero.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dataGrideTablaSemillero.Margin = new System.Windows.Forms.Padding(2);
             this.dataGrideTablaSemillero.Name = "dataGrideTablaSemillero";
             this.dataGrideTablaSemillero.RowHeadersVisible = false;
             this.dataGrideTablaSemillero.RowHeadersWidth = 51;
@@ -481,7 +482,7 @@
             this.txtCrearUsuarios.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txtCrearUsuarios.ForeColor = System.Drawing.Color.White;
             this.txtCrearUsuarios.Location = new System.Drawing.Point(15, 44);
-            this.txtCrearUsuarios.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtCrearUsuarios.Margin = new System.Windows.Forms.Padding(2);
             this.txtCrearUsuarios.Name = "txtCrearUsuarios";
             this.txtCrearUsuarios.Size = new System.Drawing.Size(248, 37);
             this.txtCrearUsuarios.TabIndex = 6;
@@ -498,7 +499,7 @@
             this.txtCrearSemillero.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txtCrearSemillero.ForeColor = System.Drawing.Color.White;
             this.txtCrearSemillero.Location = new System.Drawing.Point(15, 106);
-            this.txtCrearSemillero.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtCrearSemillero.Margin = new System.Windows.Forms.Padding(2);
             this.txtCrearSemillero.Name = "txtCrearSemillero";
             this.txtCrearSemillero.Size = new System.Drawing.Size(248, 37);
             this.txtCrearSemillero.TabIndex = 10;
@@ -515,7 +516,7 @@
             this.txtRegistrarEvento.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txtRegistrarEvento.ForeColor = System.Drawing.Color.White;
             this.txtRegistrarEvento.Location = new System.Drawing.Point(15, 166);
-            this.txtRegistrarEvento.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtRegistrarEvento.Margin = new System.Windows.Forms.Padding(2);
             this.txtRegistrarEvento.Name = "txtRegistrarEvento";
             this.txtRegistrarEvento.Size = new System.Drawing.Size(248, 37);
             this.txtRegistrarEvento.TabIndex = 11;
@@ -530,16 +531,11 @@
             this.gropboxAccionesRapidas.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.gropboxAccionesRapidas.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
             this.gropboxAccionesRapidas.Location = new System.Drawing.Point(610, 99);
-            this.gropboxAccionesRapidas.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.gropboxAccionesRapidas.Margin = new System.Windows.Forms.Padding(2);
             this.gropboxAccionesRapidas.Name = "gropboxAccionesRapidas";
             this.gropboxAccionesRapidas.Size = new System.Drawing.Size(302, 280);
             this.gropboxAccionesRapidas.TabIndex = 12;
             this.gropboxAccionesRapidas.Text = "Acciones rapidas";
-            // 
-            // guna2DragControl2
-            // 
-            this.guna2DragControl2.DockIndicatorTransparencyValue = 0.6D;
-            this.guna2DragControl2.UseTransparentDrag = true;
             // 
             // txtVerReportes
             // 
@@ -552,15 +548,16 @@
             this.txtVerReportes.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txtVerReportes.ForeColor = System.Drawing.Color.White;
             this.txtVerReportes.Location = new System.Drawing.Point(15, 222);
-<<<<<<< HEAD
             this.txtVerReportes.Margin = new System.Windows.Forms.Padding(2);
-=======
-            this.txtVerReportes.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
->>>>>>> 6459cbeed1fae28f9186c50172cb199d470cf9fa
             this.txtVerReportes.Name = "txtVerReportes";
             this.txtVerReportes.Size = new System.Drawing.Size(248, 37);
             this.txtVerReportes.TabIndex = 13;
             this.txtVerReportes.Text = "Ver reportes";
+            // 
+            // guna2DragControl2
+            // 
+            this.guna2DragControl2.DockIndicatorTransparencyValue = 0.6D;
+            this.guna2DragControl2.UseTransparentDrag = true;
             // 
             // Interfaz_Administrador
             // 
@@ -578,7 +575,7 @@
             this.Controls.Add(this.guna2Panel1);
             this.Controls.Add(this.gropboxAccionesRapidas);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Interfaz_Administrador";
             this.Text = "Interfaz_Administrador";
             this.guna2Panel1.ResumeLayout(false);
